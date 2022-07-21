@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanim</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
-<img align = "right alt = "Coding" width = "400" src = "https://www.pinterest.com/pin/567523990538356835/">
+<img align = "right alt = "Coding" width = "400" src = "<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codetanim&label=Profile%20views&color=0e75b6&style=flat" alt="codetanim" /> </p>
 
