@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I love sports (basketball/soccer) and video games**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<https://www.linkedin.com/in/tanim-i//h3>
 <p align="left">
 </p>
 
