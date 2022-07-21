@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @CodeTanim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello !
 
-<!---
-CodeTanim/CodeTanim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a rising junior studying Computer Science who has always loved the scalability of tech solutions to challenging problems. I’m also Vice-President of the Association for Computing Machinery at my university for this reason. 
+
+In addition to holding a worthwhile leadership position on campus, I enjoy learning new languages and frameworks for side projects. I’m currently building most frequently with JavaScript and learning the React framework.
+
+Post-graduation in May 2024, I am hoping to have the opportunity to work within the tech industry and contribute to the betterment of the world with my area of expertise. 
