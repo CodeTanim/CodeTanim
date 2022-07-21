@@ -1,4 +1,4 @@
-Hello !
+Hello!
 
 I'm a rising junior studying Computer Science who has always loved the scalability of tech solutions to challenging problems. I’m also Vice-President of the Association for Computing Machinery at my university for this reason. 
 
