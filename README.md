@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Web Development and the React Framework**
 
-- 📫 How to reach me **tanim.i343@gmail.com**
+- 📫 How to reach me: **tanim.i343@gmail.com**
 
-- ⚡ Fun fact **I love sports (basketball/soccer) and video games**
+- ⚡ Fun fact: **I love sports (basketball/soccer) and video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
