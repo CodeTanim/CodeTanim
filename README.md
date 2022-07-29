@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codetanim&label=Profile%20views&color=0e75b6&style=flat" alt="codetanim" /> </p>
 
+- 🔭 I’m currently working on **A Python Automation Project**
+
 - 🌱 I’m currently learning **Web Development and the React Framework**
 
 - 📫 How to reach me: **tanim.i343@gmail.com**
