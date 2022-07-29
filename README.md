@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codetanim&label=Profile%20views&color=0e75b6&style=flat" alt="codetanim" /> </p>
 
-- 🔭 I’m currently working on **A Python Automation Project**
+- 🔭 I’m currently working on **A Python automation project that will tell me when selected courses opens for enrollment**
 
 - 🌱 I’m currently learning **Web Development and the React Framework**
 
