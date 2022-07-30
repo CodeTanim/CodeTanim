@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **A Python automation project that will tell me when selected courses opens for enrollment**
 
-- 🌱 I’m currently learning **Web Development and the React Framework**
+- 🌱 I’m currently learning **Web Development and React**
 
 - 📫 How to reach me: **tanim.i343@gmail.com**
 
