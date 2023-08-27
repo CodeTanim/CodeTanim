@@ -1,6 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Tanim</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codetanim&label=Profile%20views&color=0e75b6&style=flat" alt="codetanim" /> </p>
+
 - 🔭 I’m currently in my senior year of Computer Science. I began my journey building simple apps, but I'm now transitioning into the world of machine learning and AI as I envision my future specialized in this domain. My dedication to this field is supported by the experience I've gained from 3 significant internships.
 
 - 🌱 I’m currently delving deeper into Machine Learning, AI, and their underlying algorithms.
