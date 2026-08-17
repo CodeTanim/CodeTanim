@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanim-i">LinkedIn</a> ·
-  <a href="https://tanim-portfolio.vercel.app">Portfolio</a> ·
   <a href="mailto:tanim.i.tech@gmail.com">Email</a>
 </p>
 
@@ -56,6 +55,3 @@ reduce model parameters from 60M to 5.2M across 20 scenes.
 - **Data and ML:** PostgreSQL, Dask, PyTorch, TensorFlow
 - **Engineering:** Distributed systems, production reliability, testing, and incident response
 
-## Outside of Engineering
-
-Basketball, soccer, and video games.
